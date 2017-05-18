@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarity Final Project.Plugins", "Polarity Final Project.Plugins.csproj", "{C01EB892-D031-0D48-580C-7C434F40B2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarity Final Project", "Polarity Final Project.csproj", "{99EBF8CC-C9EE-EDE4-0B01-01C6C297E249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polarity Final Project.Editor.Plugins", "Polarity Final Project.Editor.Plugins.csproj", "{C810ED05-47D0-C326-888E-090C578FA9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01EB892-D031-0D48-580C-7C434F40B2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01EB892-D031-0D48-580C-7C434F40B2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01EB892-D031-0D48-580C-7C434F40B2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01EB892-D031-0D48-580C-7C434F40B2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EBF8CC-C9EE-EDE4-0B01-01C6C297E249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EBF8CC-C9EE-EDE4-0B01-01C6C297E249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EBF8CC-C9EE-EDE4-0B01-01C6C297E249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EBF8CC-C9EE-EDE4-0B01-01C6C297E249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C810ED05-47D0-C326-888E-090C578FA9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C810ED05-47D0-C326-888E-090C578FA9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C810ED05-47D0-C326-888E-090C578FA9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C810ED05-47D0-C326-888E-090C578FA9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
